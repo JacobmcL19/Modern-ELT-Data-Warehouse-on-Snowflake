@@ -87,8 +87,8 @@ snowflake-modern-elt/
 
 ├── architecture/
 │   ├── architecture.png
-│   ├── architecture.drawio
-│   └── erd.png
+│   
+│   
 │
 ├── data/
 │
@@ -103,9 +103,9 @@ snowflake-modern-elt/
 │
 ├── python/
 │   ├── generate_data.py
-│   ├── upload_to_stage.py
-│   ├── pipeline.py
-│   └── monitoring.py
+│   
+│   
+│   
 │
 ├── sql/
 │   ├── setup/
@@ -118,8 +118,8 @@ snowflake-modern-elt/
 │   └── views/
 │
 ├── streamlit/
-│   ├── app.py
-│   └── pages/
+│   ├── streamlit.py
+│   
 │
 ├── screenshots/
 │
