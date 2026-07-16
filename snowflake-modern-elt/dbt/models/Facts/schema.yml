@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: fact_orders
+    description: "Order fact table at order grain"
+  - name: fact_payments
+    description: "Payment fact table at transaction grain"
+  - name: fact_returns
+    description: "Returns fact table"
+  - name: fact_inventory
+    description: "Inventory snapshot fact"
+  - name: fact_shipments
+    description: "Shipment fact table"
