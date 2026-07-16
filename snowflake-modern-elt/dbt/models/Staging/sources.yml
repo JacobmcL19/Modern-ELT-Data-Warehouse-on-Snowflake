@@ -1,0 +1,55 @@
+version: 2
+
+sources:
+  - name: raw_ecommerce
+    database: NORTHWIND_RAW
+    schema: ECOMMERCE
+    description: "Raw ecommerce data landing zone"
+    tables:
+      - name: RAW_CUSTOMERS
+        description: "Customer records from ecommerce platform"
+        columns:
+          - name: CUSTOMER_ID
+            tests:
+              - unique
+              - not_null
+      - name: RAW_ORDERS
+        description: "Sales orders"
+        columns:
+          - name: ORDER_ID
+            tests:
+              - unique
+              - not_null
+          - name: CUSTOMER_ID
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ecommerce', 'RAW_CUSTOMERS')
+                  field: CUSTOMER_ID
+      - name: RAW_ORDER_ITEMS
+        description: "Order line items"
+      - name: RAW_PRODUCTS
+        description: "Product catalog"
+        columns:
+          - name: PRODUCT_ID
+            tests:
+              - unique
+              - not_null
+      - name: RAW_PAYMENTS
+        description: "Payment transactions"
+      - name: RAW_RETURNS
+        description: "Product returns"
+      - name: RAW_SHIPMENTS
+        description: "Shipment tracking"
+      - name: RAW_SUPPLIERS
+        description: "Supplier master data"
+      - name: RAW_WAREHOUSES
+        description: "Warehouse locations"
+      - name: RAW_INVENTORY
+        description: "Inventory levels"
+      - name: RAW_EMPLOYEES
+        description: "Employee records"
+      - name: RAW_PROMOTIONS
+        description: "Promotion campaigns"
+      - name: RAW_CATEGORIES
+        description: "Product categories"

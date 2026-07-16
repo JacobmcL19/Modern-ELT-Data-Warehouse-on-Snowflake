@@ -1,0 +1,60 @@
+version: 2
+
+sources:
+  - name: staging
+    database: NORTHWIND_STAGING
+    schema: ECOMMERCE
+    description: "Cleansed staging layer populated by stream/task CDC pipeline"
+    tables:
+      - name: STG_CUSTOMERS
+        columns:
+          - name: CUSTOMER_ID
+            tests: [unique, not_null]
+      - name: STG_ORDERS
+        columns:
+          - name: ORDER_ID
+            tests: [unique, not_null]
+      - name: STG_ORDER_ITEMS
+        columns:
+          - name: ORDER_ITEM_ID
+            tests: [unique, not_null]
+      - name: STG_PRODUCTS
+        columns:
+          - name: PRODUCT_ID
+            tests: [unique, not_null]
+      - name: STG_PAYMENTS
+        columns:
+          - name: PAYMENT_ID
+            tests: [unique, not_null]
+      - name: STG_RETURNS
+        columns:
+          - name: RETURN_ID
+            tests: [unique, not_null]
+      - name: STG_SHIPMENTS
+        columns:
+          - name: SHIPMENT_ID
+            tests: [unique, not_null]
+      - name: STG_SUPPLIERS
+        columns:
+          - name: SUPPLIER_ID
+            tests: [unique, not_null]
+      - name: STG_WAREHOUSES
+        columns:
+          - name: WAREHOUSE_ID
+            tests: [unique, not_null]
+      - name: STG_INVENTORY
+        columns:
+          - name: INVENTORY_ID
+            tests: [unique, not_null]
+      - name: STG_EMPLOYEES
+        columns:
+          - name: EMPLOYEE_ID
+            tests: [unique, not_null]
+      - name: STG_PROMOTIONS
+        columns:
+          - name: PROMOTION_ID
+            tests: [unique, not_null]
+      - name: STG_CATEGORIES
+        columns:
+          - name: CATEGORY_ID
+            tests: [unique, not_null]
