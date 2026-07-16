@@ -1,2 +1,26 @@
-faker
-loguru
+# Modern ELT Data Warehouse on Snowflake
+
+# Data Generation
+faker==24.0.0
+pandas==2.2.0
+
+# Snowflake
+snowflake-connector-python==3.6.0
+snowflake-snowpark-python==1.11.1
+
+# dbt
+dbt-core==1.7.0
+dbt-snowflake==1.7.0
+
+# Streamlit Dashboard
+streamlit==1.31.0
+plotly==5.18.0
+
+# Data Quality & Testing
+great-expectations==0.18.0
+pytest==8.0.0
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+loguru==0.7.2
