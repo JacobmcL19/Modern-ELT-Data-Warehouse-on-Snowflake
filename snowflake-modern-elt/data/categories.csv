@@ -1,0 +1,37 @@
+CATEGORY_ID,CATEGORY_NAME,PARENT_CATEGORY_ID,DESCRIPTION
+CAT-0001,Electronics,,Electronics products and accessories
+CAT-0002,Smartphones,CAT-0001,Smartphones under Electronics
+CAT-0003,Laptops,CAT-0001,Laptops under Electronics
+CAT-0004,Tablets,CAT-0001,Tablets under Electronics
+CAT-0005,Headphones,CAT-0001,Headphones under Electronics
+CAT-0006,Cameras,CAT-0001,Cameras under Electronics
+CAT-0007,Clothing,,Clothing products and accessories
+CAT-0008,Men's Apparel,CAT-0007,Men's Apparel under Clothing
+CAT-0009,Women's Apparel,CAT-0007,Women's Apparel under Clothing
+CAT-0010,Children's,CAT-0007,Children's under Clothing
+CAT-0011,Footwear,CAT-0007,Footwear under Clothing
+CAT-0012,Accessories,CAT-0007,Accessories under Clothing
+CAT-0013,Home & Garden,,Home & Garden products and accessories
+CAT-0014,Furniture,CAT-0013,Furniture under Home & Garden
+CAT-0015,Kitchenware,CAT-0013,Kitchenware under Home & Garden
+CAT-0016,Bedding,CAT-0013,Bedding under Home & Garden
+CAT-0017,Lighting,CAT-0013,Lighting under Home & Garden
+CAT-0018,Garden Tools,CAT-0013,Garden Tools under Home & Garden
+CAT-0019,Sports,,Sports products and accessories
+CAT-0020,Fitness,CAT-0019,Fitness under Sports
+CAT-0021,Outdoor,CAT-0019,Outdoor under Sports
+CAT-0022,Team Sports,CAT-0019,Team Sports under Sports
+CAT-0023,Water Sports,CAT-0019,Water Sports under Sports
+CAT-0024,Winter Sports,CAT-0019,Winter Sports under Sports
+CAT-0025,Books,,Books products and accessories
+CAT-0026,Fiction,CAT-0025,Fiction under Books
+CAT-0027,Non-Fiction,CAT-0025,Non-Fiction under Books
+CAT-0028,Academic,CAT-0025,Academic under Books
+CAT-0029,Children's Books,CAT-0025,Children's Books under Books
+CAT-0030,Comics,CAT-0025,Comics under Books
+CAT-0031,Beauty,,Beauty products and accessories
+CAT-0032,Skincare,CAT-0031,Skincare under Beauty
+CAT-0033,Makeup,CAT-0031,Makeup under Beauty
+CAT-0034,Haircare,CAT-0031,Haircare under Beauty
+CAT-0035,Fragrance,CAT-0031,Fragrance under Beauty
+CAT-0036,Bath & Body,CAT-0031,Bath & Body under Beauty
