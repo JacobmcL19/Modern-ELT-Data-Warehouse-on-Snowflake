@@ -1,0 +1,37 @@
+name: 'northwind_dw'
+version: '1.0.0'
+config-version: 2
+
+profile: 'northwind'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+vars:
+  raw_database: 'NORTHWIND_RAW'
+  raw_schema: 'ECOMMERCE'
+  staging_database: 'NORTHWIND_STAGING'
+  staging_schema: 'ECOMMERCE'
+  dw_database: 'NORTHWIND_DW'
+
+models:
+  northwind_dw:
+    dimensions:
+      +database: NORTHWIND_DW
+      +schema: DIMENSIONS
+    facts:
+      +database: NORTHWIND_DW
+      +schema: FACTS
+    staging:
+      +database: NORTHWIND_STAGING
+      +schema: ECOMMERCE
+      +materialized: view
