@@ -1,0 +1,101 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,HIRE_DATE,DEPARTMENT,JOB_TITLE,MANAGER_ID,WAREHOUSE_ID,SALARY,IS_ACTIVE
+EMP-00001,Miguel,Jones,robertsaunders@bird-garcia.net,001-424-719-5625,2026-03-26,Marketing,Race relations officer,,WH-0020,93447.7,True
+EMP-00002,Carlos,Smith,oreyes@hall.com,2914436391,2020-03-30,Finance,Housing manager/officer,EMP-00001,WH-0009,123857.64,True
+EMP-00003,James,Bennett,youngjessica@stevenson-murphy.com,508-864-0355x33803,2021-09-14,Operations,"Education officer, museum",EMP-00002,WH-0001,67526.48,True
+EMP-00004,Scott,Smith,mjones@walters.com,(812)998-3381,2019-08-15,Customer Service,"Engineer, civil (consulting)",EMP-00003,WH-0016,134504.97,True
+EMP-00005,John,Thompson,kevinray@harris.com,(862)377-6896x2706,2024-01-22,Logistics,Hydrologist,EMP-00003,WH-0011,98470.5,True
+EMP-00006,Brooke,Hernandez,jonathanford@campbell-hart.info,752-973-2300,2020-07-17,Logistics,Pathologist,EMP-00003,WH-0007,147789.08,True
+EMP-00007,Shelby,Waller,patrick49@ortiz.com,(592)536-4587x5066,2021-04-08,Logistics,Medical illustrator,EMP-00002,WH-0014,40019.44,True
+EMP-00008,Crystal,Rhodes,josegibson@hernandez.com,8114669183,2024-10-05,IT,Forensic psychologist,EMP-00007,WH-0013,79399.06,True
+EMP-00009,Heather,Mason,uwillis@goodwin-glass.com,495-924-3640,2016-07-18,Finance,Building control surveyor,EMP-00003,WH-0016,145954.81,True
+EMP-00010,Kim,Butler,upena@jackson-brooks.com,572.281.7932,2023-12-20,Customer Service,"Engineer, agricultural",EMP-00006,WH-0004,135531.89,True
+EMP-00011,Jordan,Barrera,nalexander@oneill.com,216-214-1509x3771,2019-03-04,Customer Service,Actor,EMP-00008,WH-0001,118081.04,True
+EMP-00012,Elizabeth,Mccormick,davisalexa@bennett.com,275.796.5555x3566,2025-03-11,IT,Chiropodist,EMP-00003,WH-0003,88991.42,True
+EMP-00013,Aaron,Harrell,ihardy@guzman.com,001-735-279-7863x050,2026-02-23,Operations,"Journalist, magazine",EMP-00010,WH-0013,109731.22,True
+EMP-00014,Erica,Hall,nross@bailey.com,001-664-993-2898x0271,2018-03-13,Finance,Product designer,EMP-00011,WH-0018,78701.08,True
+EMP-00015,Stephanie,Olson,johnjackson@graves.com,(956)343-4712,2024-06-03,IT,Learning mentor,EMP-00013,WH-0016,135324.05,False
+EMP-00016,Monica,Huynh,schneidernicholas@paul.net,(733)441-4111x59319,2024-12-29,Sales,Museum/gallery conservator,EMP-00004,WH-0010,149703.98,True
+EMP-00017,Barbara,Smith,lawrencejames@whitney-flores.com,+1-528-999-3160x87524,2023-04-11,Logistics,Data processing manager,EMP-00004,WH-0004,86023.03,True
+EMP-00018,Carolyn,Thomas,georgekyle@martinez.info,+1-837-646-0523x3027,2026-04-18,Sales,"Designer, jewellery",EMP-00002,WH-0011,126556.5,True
+EMP-00019,Vickie,Kelley,roberto75@myers-rose.com,438-961-2590x4729,2023-06-08,Operations,"Horticulturist, amenity",EMP-00014,WH-0005,63082.7,True
+EMP-00020,Phyllis,Clark,jillsmith@chase.com,(862)401-5720x1859,2022-10-01,IT,Operations geologist,EMP-00006,WH-0006,55132.98,True
+EMP-00021,John,Wilson,sburns@blevins.com,001-276-947-5011x11783,2019-03-31,Logistics,Chief Marketing Officer,EMP-00020,WH-0008,92231.73,True
+EMP-00022,Laura,White,scooke@evans-martinez.com,982-360-6888,2021-09-04,Marketing,Television/film/video producer,EMP-00015,WH-0009,87850.61,True
+EMP-00023,Amber,Fuentes,molinajared@merritt.com,4873510293,2022-02-09,Finance,Animal nutritionist,EMP-00015,WH-0010,112925.25,True
+EMP-00024,Christopher,Martinez,michael82@rowland-barrett.com,508-348-7297x5859,2023-02-07,Logistics,Armed forces operational officer,EMP-00012,WH-0019,69402.74,True
+EMP-00025,Joel,Lopez,melissa32@arnold.org,(518)344-6267x14628,2022-10-10,IT,Geophysical data processor,EMP-00009,WH-0015,132209.95,True
+EMP-00026,Wanda,Terry,jenniferelliott@hoover.com,766-309-3141x81861,2020-02-17,Logistics,"Lecturer, further education",EMP-00016,WH-0004,62278.66,True
+EMP-00027,Kimberly,Thomas,joshuagarcia@gray.com,(684)697-1859,2022-07-22,Customer Service,Art therapist,EMP-00010,WH-0010,37523.05,True
+EMP-00028,George,Potts,zwhite@byrd.biz,792.540.8222x6940,2023-04-05,Logistics,Personal assistant,EMP-00009,WH-0001,100081.84,True
+EMP-00029,Jasmine,White,lauren84@cisneros-meyer.com,314-665-1113x1290,2022-01-10,IT,"Research officer, government",EMP-00002,WH-0020,120694.8,True
+EMP-00030,Lindsey,Smith,urhodes@castillo.net,001-216-909-3068x538,2026-02-05,Operations,"Scientist, research (physical sciences)",EMP-00025,WH-0008,104812.47,True
+EMP-00031,Rebecca,Thompson,mary85@henderson.com,(215)838-1447x443,2018-09-08,IT,Industrial/product designer,EMP-00007,WH-0020,63822.08,True
+EMP-00032,Sarah,Haley,wallspatricia@brown-smith.info,345-410-5265x01673,2020-08-09,Finance,Ranger/warden,EMP-00022,WH-0005,107248.53,True
+EMP-00033,Adam,Hammond,jeremy65@diaz-mcclain.net,517-672-2560x531,2016-12-05,IT,Nutritional therapist,EMP-00003,WH-0010,125690.21,False
+EMP-00034,Robert,Rivera,martinjames@moyer-bird.com,(478)772-5686x21102,2021-06-28,Operations,Fast food restaurant manager,EMP-00009,WH-0003,139607.2,True
+EMP-00035,Brett,Gallegos,vbray@hamilton.com,816.539.2823x4143,2021-03-25,Logistics,"Civil engineer, contracting",EMP-00012,WH-0007,50198.38,True
+EMP-00036,Jacqueline,Shaw,jacobbond@walters.com,632-560-9310x668,2018-09-24,Operations,Physiological scientist,EMP-00034,WH-0017,140051.0,True
+EMP-00037,Timothy,Hicks,torresjoseph@hahn-dawson.com,402-600-0534x74916,2025-12-08,Operations,Medical physicist,EMP-00031,WH-0010,120854.33,True
+EMP-00038,Matthew,Rodriguez,vegakaylee@rivera.com,001-398-295-3439x6112,2022-05-08,Sales,"Engineer, aeronautical",EMP-00030,WH-0003,51187.06,True
+EMP-00039,James,Griffin,jonesamy@turner-wells.com,+1-720-723-6848,2020-12-23,Finance,Commercial/residential surveyor,EMP-00026,WH-0018,77064.13,True
+EMP-00040,Rhonda,Jones,gmills@jackson.com,809-803-6788x1278,2020-07-04,Sales,Glass blower/designer,EMP-00017,WH-0018,49212.7,True
+EMP-00041,Jamie,Smith,brittanysmith@gibson.com,544.681.2308,2016-12-01,IT,Data scientist,EMP-00017,WH-0019,78817.93,True
+EMP-00042,Sheri,Ramirez,josephgibbs@whitney.com,8596551842,2019-10-02,Operations,Barista,EMP-00007,WH-0008,89219.84,True
+EMP-00043,Connie,Smith,jeffrey42@bonilla-medina.org,664-598-3735,2022-04-20,Customer Service,Nutritional therapist,EMP-00021,WH-0020,60457.23,False
+EMP-00044,Eric,Hall,erichardson@crawford.com,(439)872-4042,2023-05-08,Finance,Emergency planning/management officer,EMP-00030,WH-0010,109662.54,True
+EMP-00045,Chad,Jones,spencerbrewer@garcia-rose.com,+1-416-260-1002x314,2024-05-22,Sales,Acupuncturist,EMP-00003,WH-0010,149531.65,True
+EMP-00046,Susan,Rodriguez,melissa13@castillo.info,(345)272-3084,2024-09-17,Marketing,"Civil engineer, contracting",EMP-00035,WH-0005,79694.27,True
+EMP-00047,Amy,Garcia,othomas@perez.com,(343)761-7213x145,2017-09-14,IT,Chartered accountant,EMP-00045,WH-0018,83199.58,True
+EMP-00048,Paula,Munoz,royrogers@shelton.com,+1-745-414-7541x022,2020-05-28,Marketing,Purchasing manager,EMP-00027,WH-0004,130874.7,True
+EMP-00049,Lisa,Wilson,rmoyer@davis.com,001-965-957-6769x52366,2021-10-24,Operations,Event organiser,EMP-00003,WH-0012,59986.01,True
+EMP-00050,Patrick,Carpenter,xrose@shepherd.com,7307587210,2024-12-13,Marketing,Corporate treasurer,EMP-00024,WH-0004,147806.69,True
+EMP-00051,Kenneth,Thomas,osanchez@burgess.com,(706)450-1917x9202,2017-04-25,IT,Camera operator,EMP-00023,WH-0002,80786.06,True
+EMP-00052,Alexander,Guerra,lhernandez@manning-adkins.com,465.270.4120x0928,2020-06-18,Sales,Pharmacologist,EMP-00030,WH-0003,111218.4,True
+EMP-00053,Erin,Liu,samantha84@perez.com,962.736.9036x28917,2023-01-02,Customer Service,Ophthalmologist,EMP-00002,WH-0002,125481.38,True
+EMP-00054,Margaret,Martin,deborah34@garcia.org,001-550-234-2811x39043,2018-11-30,Marketing,Chartered certified accountant,EMP-00051,WH-0019,58598.64,True
+EMP-00055,Tiffany,Cunningham,uwilliams@harding.com,001-446-283-5652x15681,2022-05-10,Customer Service,Museum/gallery exhibitions officer,EMP-00014,WH-0019,59834.41,True
+EMP-00056,Thomas,Melton,robertsedward@miller-garrett.com,422.788.9857,2019-06-01,Operations,Youth worker,EMP-00050,WH-0005,125694.03,True
+EMP-00057,Melissa,Jordan,nallen@jones.info,702-448-1717,2025-10-18,Operations,"Designer, television/film set",EMP-00055,WH-0005,148565.64,True
+EMP-00058,Carlos,Ray,christopher27@andersen-good.info,+1-721-797-0546x6927,2020-03-27,Finance,Patent attorney,EMP-00012,WH-0004,111021.63,False
+EMP-00059,William,Baker,oliverdawn@gibbs.com,946-329-6136,2019-12-29,Sales,Psychotherapist,EMP-00023,WH-0008,102718.09,False
+EMP-00060,Dawn,Mccullough,lrodriguez@rodriguez.biz,965.315.5973,2019-04-17,Operations,Arboriculturist,EMP-00004,WH-0005,120297.58,True
+EMP-00061,Amy,Fry,danielleflores@huerta.com,(467)330-3064x421,2019-04-01,IT,Ceramics designer,EMP-00005,WH-0016,86551.65,True
+EMP-00062,Kenneth,Joseph,qwarren@white-brown.biz,242-535-6778x26596,2017-04-20,Customer Service,Technical sales engineer,EMP-00007,WH-0015,92941.45,True
+EMP-00063,Christina,Morris,alexis72@lin-wilson.biz,480-872-7910x336,2018-09-04,Sales,"Engineer, manufacturing systems",EMP-00047,WH-0017,69687.49,True
+EMP-00064,Stephanie,Bonilla,woodmichael@mosley-shaw.com,001-477-966-5586x851,2020-10-12,Sales,"Editor, film/video",EMP-00004,WH-0016,132439.33,True
+EMP-00065,Angela,Martin,qjames@frazier.com,311-909-6179,2021-07-10,Sales,Amenity horticulturist,EMP-00063,WH-0015,43451.43,True
+EMP-00066,Elizabeth,Christian,jeffreygibson@wilson-gates.com,(876)560-5384x444,2016-07-28,Customer Service,Patent examiner,EMP-00019,WH-0003,49512.03,True
+EMP-00067,Antonio,Johnson,mary89@rogers-haley.biz,486.839.6096,2026-03-23,Customer Service,Early years teacher,EMP-00042,WH-0013,149382.19,True
+EMP-00068,Richard,Flores,samuelgarcia@gordon.org,(248)325-3110x6092,2022-03-15,Logistics,Agricultural consultant,EMP-00065,WH-0020,84472.92,True
+EMP-00069,Julia,Anderson,xwalters@lopez-delgado.com,338-936-4041x2091,2025-09-23,Sales,Community education officer,EMP-00028,WH-0014,86928.82,True
+EMP-00070,Daniel,Campbell,christophersnyder@durham-clark.com,606.217.1366x5722,2025-06-29,Operations,Tax adviser,EMP-00059,WH-0013,82838.81,True
+EMP-00071,Crystal,Bond,daughertyvictoria@cooley-greene.com,(484)513-9080,2025-02-16,Logistics,Colour technologist,EMP-00041,WH-0009,78044.62,True
+EMP-00072,Rachel,Johnson,jeffreyluna@adams.com,558-647-7686,2018-03-31,Logistics,Health visitor,EMP-00009,WH-0003,130653.77,True
+EMP-00073,Suzanne,Garcia,gabriel37@andrade-henderson.com,691-896-6395x51720,2019-06-11,Sales,Set designer,EMP-00048,WH-0005,98982.63,True
+EMP-00074,Michael,Johnson,lisajordan@howard.com,+1-555-325-1050x53795,2020-05-09,Customer Service,Town planner,EMP-00072,WH-0011,112051.53,True
+EMP-00075,Jason,Robinson,jennifer19@fisher.com,330.977.0461,2018-03-25,Finance,"Journalist, newspaper",EMP-00055,WH-0002,146365.84,True
+EMP-00076,Brittany,Young,mitchelldawn@travis.biz,8886050171,2019-04-04,Operations,Logistics and distribution manager,EMP-00014,WH-0019,93352.44,True
+EMP-00077,Richard,Hawkins,troy06@horton-gibson.com,(491)303-0021x563,2018-06-05,Logistics,"Merchandiser, retail",EMP-00029,WH-0004,75263.11,True
+EMP-00078,Lisa,Medina,villamiranda@ware-williams.com,714-459-6422x9712,2024-01-01,Sales,Patent attorney,EMP-00036,WH-0019,61008.3,True
+EMP-00079,Dana,Barnett,beckystanley@morris-simon.com,344-915-8331,2017-02-16,Customer Service,"Administrator, Civil Service",EMP-00072,WH-0001,105034.42,True
+EMP-00080,Ellen,Mcdonald,glopez@clark-garza.net,554.872.8123x56798,2018-05-24,IT,Health physicist,EMP-00035,WH-0001,55747.85,True
+EMP-00081,Rodney,Parks,thomasnancy@rodriguez.com,7788754181,2018-08-20,Operations,Occupational psychologist,EMP-00044,WH-0012,35702.17,True
+EMP-00082,Wayne,Romero,alexandermitchell@wong.biz,943.862.9489,2017-08-12,Customer Service,Arts administrator,EMP-00052,WH-0003,51315.59,True
+EMP-00083,Debbie,Haley,dariusjacobson@adams.com,+1-666-661-3473x235,2023-10-23,Sales,Chief Marketing Officer,EMP-00012,WH-0017,59740.28,True
+EMP-00084,Jackson,Velez,sstevenson@jackson.com,(225)472-0765,2026-03-13,Operations,Camera operator,EMP-00021,WH-0012,70838.3,True
+EMP-00085,George,Wolf,wheelertara@smith.com,3946388221,2024-07-03,Customer Service,Legal executive,EMP-00077,WH-0003,136584.35,True
+EMP-00086,Shaun,Navarro,elizabeth45@smith-gomez.com,597.814.8026x32570,2020-02-05,Finance,Chartered public finance accountant,EMP-00080,WH-0002,112506.4,True
+EMP-00087,James,Blevins,sheppardnatalie@gardner.net,(545)256-9644,2022-04-12,IT,Lobbyist,EMP-00055,WH-0016,104813.74,True
+EMP-00088,Mary,Martinez,yknight@roberts-montes.info,+1-227-928-4982x47414,2016-12-08,Marketing,Heritage manager,EMP-00066,WH-0004,74694.88,True
+EMP-00089,Margaret,Martinez,btorres@keller-smith.com,(554)888-2142,2022-05-03,IT,Catering manager,EMP-00087,WH-0019,90962.77,True
+EMP-00090,Kelly,Johnson,john66@rasmussen-garcia.com,594-629-6592x3426,2019-07-23,Sales,Human resources officer,EMP-00029,WH-0013,148211.25,False
+EMP-00091,Ashley,Fuller,nicholasliu@davis-rose.com,457.656.7667x08061,2024-05-01,Marketing,Telecommunications researcher,EMP-00039,WH-0007,123245.2,True
+EMP-00092,William,Martinez,brian62@santiago-ford.net,701.204.1591x497,2017-09-25,Operations,Television/film/video producer,EMP-00042,WH-0004,35888.94,True
+EMP-00093,Emily,Stevenson,mileszachary@yang.com,340-579-3110x2918,2018-07-23,Marketing,Public relations account executive,EMP-00017,WH-0013,96246.97,True
+EMP-00094,Angel,Wagner,hbrown@sullivan-mcgrath.com,+1-449-479-1620,2024-08-25,Customer Service,Financial adviser,EMP-00086,WH-0012,43288.68,True
+EMP-00095,George,Harmon,thomasroberts@garcia.com,(261)676-6204x7196,2016-11-13,Sales,Water quality scientist,EMP-00056,WH-0001,87871.74,False
+EMP-00096,Sean,Odonnell,sydney77@smith-moore.net,635.686.8122x59572,2025-09-09,Operations,Broadcast journalist,EMP-00074,WH-0014,100940.96,True
+EMP-00097,Sabrina,Brewer,mestes@white.net,425-599-5996x100,2017-06-27,Logistics,Claims inspector/assessor,EMP-00038,WH-0004,81578.72,True
+EMP-00098,Victor,Shelton,kathleen31@chandler.biz,209-441-0175,2019-09-19,Marketing,"Production assistant, television",EMP-00080,WH-0015,130682.98,True
+EMP-00099,Nicholas,Zhang,jameshenry@mitchell.net,719.801.3020,2022-03-02,Sales,Building surveyor,EMP-00056,WH-0004,62981.39,True
+EMP-00100,Matthew,Fleming,nlee@carey.net,(617)366-1912,2017-09-13,Customer Service,Exercise physiologist,EMP-00011,WH-0013,135110.31,True

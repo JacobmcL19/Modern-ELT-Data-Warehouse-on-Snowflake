@@ -1,0 +1,51 @@
+PROMOTION_ID,PROMOTION_NAME,PROMOTION_TYPE,DISCOUNT_PERCENT,DISCOUNT_AMOUNT,START_DATE,END_DATE,MIN_ORDER_VALUE,IS_ACTIVE,APPLICABLE_CATEGORIES
+PROMO-0001,Advanced global project Sale,Percentage Off,,39.32,2025-12-14,2025-12-22,,True,"Electronics,Clothing"
+PROMO-0002,Streamlined heuristic conglomeration Sale,Bundle Deal,,,2025-01-06,2025-01-19,,True,Books
+PROMO-0003,Decentralized tangible workforce Sale,Fixed Amount,,66.01,2025-12-03,2026-02-24,,True,"Books,Beauty,Sports"
+PROMO-0004,Object-based optimizing toolset Sale,Percentage Off,12.84,,2025-05-23,2025-06-07,,False,Books
+PROMO-0005,Grass-roots full-range protocol Sale,Percentage Off,,7.48,2025-06-06,2025-07-04,56.42,True,"Sports,Electronics"
+PROMO-0006,Optimized dynamic benchmark Sale,Free Shipping,,,2025-11-22,2026-01-14,94.65,True,"Home & Garden,Sports"
+PROMO-0007,Quality-focused holistic moratorium Sale,Percentage Off,,,2024-12-29,2025-03-13,,True,Clothing
+PROMO-0008,Multi-layered systematic success Sale,Bundle Deal,,72.63,2024-08-29,2024-09-28,180.77,False,"Home & Garden,Books"
+PROMO-0009,Devolved coherent extranet Sale,Bundle Deal,,,2025-07-14,2025-08-27,,False,"Books,Beauty"
+PROMO-0010,Sharable next generation groupware Sale,Buy One Get One,35.56,88.47,2025-09-22,2025-10-02,187.48,False,Electronics
+PROMO-0011,Team-oriented discrete attitude Sale,Bundle Deal,,,2025-01-13,2025-03-10,166.13,True,"Sports,Books"
+PROMO-0012,Total analyzing process improvement Sale,Buy One Get One,9.98,94.01,2025-02-10,2025-04-12,,False,Beauty
+PROMO-0013,Decentralized uniform intranet Sale,Percentage Off,7.07,92.17,2025-09-14,2025-12-02,,True,"Electronics,Beauty,Clothing"
+PROMO-0014,Synergistic 24hour contingency Sale,Fixed Amount,,28.75,2025-01-19,2025-03-22,,False,"Clothing,Beauty,Books"
+PROMO-0015,Versatile composite collaboration Sale,Buy One Get One,,,2025-08-23,2025-11-15,,False,"Home & Garden,Sports"
+PROMO-0016,Extended full-range array Sale,Fixed Amount,9.89,89.96,2025-05-08,2025-06-05,,True,"Electronics,Books,Home & Garden"
+PROMO-0017,Total client-driven monitoring Sale,Percentage Off,,,2025-01-28,2025-03-27,,True,"Beauty,Home & Garden"
+PROMO-0018,Synergized zero tolerance flexibility Sale,Percentage Off,22.53,,2026-05-11,2026-08-04,98.82,True,"Electronics,Books"
+PROMO-0019,Managed client-server synergy Sale,Fixed Amount,28.01,50.8,2025-02-03,2025-04-13,,True,"Beauty,Clothing,Electronics"
+PROMO-0020,Upgradable eco-centric ability Sale,Buy One Get One,43.48,,2024-10-06,2024-11-20,,False,"Home & Garden,Books,Beauty"
+PROMO-0021,Mandatory cohesive database Sale,Free Shipping,,82.26,2026-06-06,2026-06-15,,True,"Books,Electronics,Clothing"
+PROMO-0022,De-engineered system-worthy moderator Sale,Fixed Amount,26.26,,2025-08-18,2025-10-02,111.62,True,Beauty
+PROMO-0023,Self-enabling zero administration time-frame Sale,Free Shipping,,,2025-11-09,2026-02-02,,True,"Books,Beauty,Sports"
+PROMO-0024,Stand-alone responsive capacity Sale,Bundle Deal,,22.99,2026-04-03,2026-04-22,,True,"Books,Electronics"
+PROMO-0025,Front-line optimal initiative Sale,Buy One Get One,,75.59,2026-05-20,2026-07-08,,True,"Books,Home & Garden,Clothing"
+PROMO-0026,Business-focused stable firmware Sale,Buy One Get One,49.54,,2024-07-23,2024-10-20,65.23,True,"Beauty,Sports"
+PROMO-0027,Object-based holistic framework Sale,Fixed Amount,,,2025-04-23,2025-05-03,,False,"Clothing,Beauty,Sports"
+PROMO-0028,Configurable transitional core Sale,Bundle Deal,33.61,,2024-10-16,2024-10-24,158.99,True,Electronics
+PROMO-0029,Vision-oriented hybrid access Sale,Percentage Off,36.34,97.99,2025-08-01,2025-09-23,55.46,True,Clothing
+PROMO-0030,Down-sized asymmetric application Sale,Buy One Get One,28.57,33.34,2024-09-01,2024-09-29,36.13,False,"Home & Garden,Sports,Books"
+PROMO-0031,Synergistic needs-based superstructure Sale,Buy One Get One,26.89,,2025-09-05,2025-10-22,,True,Home & Garden
+PROMO-0032,Persevering logistical neural-net Sale,Free Shipping,,87.13,2025-01-27,2025-02-25,,False,"Books,Sports,Clothing"
+PROMO-0033,Re-contextualized 5thgeneration matrix Sale,Buy One Get One,41.46,99.12,2026-04-12,2026-06-17,,False,"Beauty,Clothing,Electronics"
+PROMO-0034,Self-enabling 5thgeneration circuit Sale,Percentage Off,45.94,,2026-01-25,2026-03-07,,True,"Clothing,Home & Garden"
+PROMO-0035,Expanded background policy Sale,Percentage Off,,51.59,2025-01-04,2025-02-22,,False,Sports
+PROMO-0036,Universal 4thgeneration hardware Sale,Fixed Amount,5.25,68.46,2025-04-29,2025-05-19,170.83,True,"Beauty,Books,Clothing"
+PROMO-0037,Robust disintermediate ability Sale,Fixed Amount,14.1,,2026-06-02,2026-06-27,,False,"Electronics,Home & Garden"
+PROMO-0038,Seamless 24/7 hub Sale,Buy One Get One,6.87,53.85,2025-03-13,2025-03-22,,True,Electronics
+PROMO-0039,Virtual static function Sale,Free Shipping,,,2026-06-08,2026-07-20,,False,"Electronics,Books"
+PROMO-0040,Cross-group even-keeled collaboration Sale,Free Shipping,49.81,,2026-04-21,2026-06-09,,True,"Beauty,Clothing,Electronics"
+PROMO-0041,Fundamental next generation architecture Sale,Free Shipping,6.78,49.92,2025-04-06,2025-06-06,,True,"Books,Sports"
+PROMO-0042,Diverse uniform portal Sale,Free Shipping,21.27,,2025-10-19,2025-11-07,,True,"Books,Home & Garden"
+PROMO-0043,Horizontal client-server contingency Sale,Buy One Get One,12.11,,2026-03-14,2026-03-25,129.42,True,Sports
+PROMO-0044,Cross-platform 24hour service-desk Sale,Percentage Off,,49.83,2026-02-09,2026-04-27,132.34,True,Home & Garden
+PROMO-0045,Profit-focused encompassing archive Sale,Percentage Off,,17.39,2025-09-05,2025-09-30,144.82,True,Home & Garden
+PROMO-0046,Proactive national leverage Sale,Fixed Amount,29.79,64.53,2025-04-20,2025-05-29,,True,"Home & Garden,Beauty,Books"
+PROMO-0047,Total global array Sale,Percentage Off,19.56,,2025-10-08,2025-12-20,130.11,True,"Beauty,Electronics,Sports"
+PROMO-0048,Business-focused client-server protocol Sale,Bundle Deal,,,2026-05-02,2026-07-18,,True,"Books,Beauty,Home & Garden"
+PROMO-0049,Distributed encompassing infrastructure Sale,Bundle Deal,29.51,77.91,2025-01-04,2025-01-11,,False,"Books,Electronics"
+PROMO-0050,Advanced coherent hierarchy Sale,Bundle Deal,31.83,,2025-04-15,2025-07-13,,True,"Books,Beauty,Electronics"
