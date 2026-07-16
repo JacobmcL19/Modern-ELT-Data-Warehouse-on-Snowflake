@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: "Date dimension spine covering 2020-2030"
+  - name: dim_customer
+    description: "Customer dimension with SCD Type 2"
+  - name: dim_product
+    description: "Product dimension with category denormalization and SCD2"
+  - name: dim_supplier
+    description: "Supplier dimension"
+  - name: dim_warehouse
+    description: "Warehouse dimension"
+  - name: dim_employee
+    description: "Employee dimension"
+  - name: dim_promotion
+    description: "Promotion dimension"
+  - name: dim_geography
+    description: "Geography dimension derived from customer locations"
