@@ -380,16 +380,18 @@ The project demonstrates enterprise security practices including:
 
 # 📸 Screenshots
 
-The completed project will include screenshots of:
-
-* Snowflake Architecture
-* Entity Relationship Diagram
-* Snowflake Worksheets
-* Streamlit Dashboard
-* dbt Documentation
-* Pipeline Monitoring
-* Warehouse Usage
-* Query History
+![Screenshot 1](snowflake-modern-elt/screenshots/1.png)
+![Screenshot 2](snowflake-modern-elt/screenshots/2.png)
+![Screenshot 3](snowflake-modern-elt/screenshots/3.png)
+![Screenshot 4](snowflake-modern-elt/screenshots/4.png)
+![Screenshot 5](snowflake-modern-elt/screenshots/5.png)
+![Screenshot 6](snowflake-modern-elt/screenshots/6.png)
+![Screenshot 7](snowflake-modern-elt/screenshots/7.png)
+![Screenshot 8](snowflake-modern-elt/screenshots/8.png)
+![Screenshot 9](snowflake-modern-elt/screenshots/9.png)
+![Screenshot 10](snowflake-modern-elt/screenshots/10.png)
+![Screenshot 11](snowflake-modern-elt/screenshots/11.png)
+![Screenshot 12](snowflake-modern-elt/screenshots/12.png)
 
 ---
 
