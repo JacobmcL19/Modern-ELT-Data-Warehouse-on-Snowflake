@@ -1,0 +1,21 @@
+WAREHOUSE_ID,WAREHOUSE_NAME,WAREHOUSE_TYPE,ADDRESS,CITY,STATE,COUNTRY,POSTAL_CODE,CAPACITY_UNITS,MANAGER_ID,IS_ACTIVE
+WH-0001,Lisaburgh Regional Hub,Distribution Center,112 Laura Fields Suite 559,Rowlandbury,PW,US,06555,459699,,True
+WH-0002,Port Amanda Fulfillment Center,Regional Hub,3042 Clark Common,Gibbsland,GA,US,67166,225820,,True
+WH-0003,Potterhaven Cold Storage,Regional Hub,8725 Fox Orchard Suite 749,Littleshire,SD,US,05298,357384,,True
+WH-0004,East Patricia Cold Storage,Distribution Center,63466 Selena Landing Suite 812,West Seanstad,IN,US,77042,248459,,True
+WH-0005,South Williammouth Distribution Center,Regional Hub,7665 Stewart Light Apt. 273,Deannastad,MH,US,11303,142329,,True
+WH-0006,Meganhaven Regional Hub,Distribution Center,3111 Johnson Flats,Jamesmouth,KS,US,40178,415037,,True
+WH-0007,Jamesberg Cold Storage,Distribution Center,44566 Thomas Passage Apt. 633,South Jesus,OR,US,72933,354803,,True
+WH-0008,Sharpmouth Cold Storage,Cold Storage,53663 Cole Point Apt. 529,West Sherry,AL,US,66010,38418,,True
+WH-0009,Matthewchester Fulfillment Center,Regional Hub,684 Matthews Port Apt. 225,Bairdborough,MO,US,08851,336439,,True
+WH-0010,Lopezville Cold Storage,Cold Storage,741 Damon Plaza Apt. 097,East Jamesfurt,LA,US,27487,408453,,True
+WH-0011,West Donna Distribution Center,Fulfillment Center,0580 Mark Loop,Mooreville,DC,US,70814,150014,,True
+WH-0012,Mendozaland Fulfillment Center,Regional Hub,23467 Cassandra Inlet Apt. 874,North Vickie,NV,US,08885,239699,,True
+WH-0013,Jacobsbury Cold Storage,Distribution Center,777 Jo Heights Suite 546,South John,MH,US,81468,25135,,True
+WH-0014,Ellisburgh Fulfillment Center,Fulfillment Center,0324 Estrada Cliff,South Robert,WV,US,72960,172922,,True
+WH-0015,West Charlesville Distribution Center,Cold Storage,7243 Steven Cliffs Suite 656,South Benjamin,KS,US,15532,58868,,True
+WH-0016,West Ellen Fulfillment Center,Distribution Center,7118 Jennifer Mill Apt. 742,Port Andrew,CT,US,23731,251931,,True
+WH-0017,Davidfurt Distribution Center,Fulfillment Center,04275 Jay Bypass,South Heather,MP,US,83704,271292,,True
+WH-0018,South Hannahmouth Regional Hub,Regional Hub,006 Sarah Landing,East Christopher,MT,US,04163,227836,,True
+WH-0019,West Loriland Cold Storage,Cold Storage,22068 Lisa Islands,New Jamie,ND,US,52282,137785,,True
+WH-0020,Martinezborough Cold Storage,Fulfillment Center,5206 Smith Forest,Robinsonview,SD,US,82278,211109,,True

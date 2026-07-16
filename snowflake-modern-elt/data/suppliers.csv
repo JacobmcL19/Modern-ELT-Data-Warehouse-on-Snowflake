@@ -1,0 +1,201 @@
+SUPPLIER_ID,SUPPLIER_NAME,CONTACT_NAME,CONTACT_EMAIL,PHONE,ADDRESS,CITY,STATE,COUNTRY,POSTAL_CODE,PAYMENT_TERMS,LEAD_TIME_DAYS,RATING,IS_ACTIVE
+SUP-06E8F4C3A9F,"Rodriguez, Figueroa and Sanchez",Brian Yang,garzaanthony@robinson.org,2834863794,4235 Christopher Court Suite 594,Lake Stephenville,MS,US,10829,Net 30,4,4.2,True
+SUP-2A33B87FB9D,"Carter, Fuller and Mcclure",Corey Jones,kendragalloway@delacruz.com,452.955.3419x283,8350 Lydia Valley Suite 641,New Nancy,MD,US,28370,Net 60,9,4.0,True
+SUP-BF95D07074B,"Porter, Wilkerson and Day",Charles Mcgee,julie69@cox-osborn.com,671.201.2269x16697,845 Kelly Estate,Smithview,NY,US,23917,Net 30,40,3.3,False
+SUP-B577E9D6CD7,"Gaines, Harrell and Evans",Lisa Hernandez,amberosborne@sellers.com,(443)903-9117x182,8963 Jennifer Locks,Samuelhaven,NV,US,16361,Net 60,17,3.5,False
+SUP-305A80CA3C6,Walker LLC,Julian Chapman,jonescrystal@jones.com,983-547-3829,3116 Henderson Mountain Apt. 106,Laurenville,IA,US,25613,Net 60,44,4.1,True
+SUP-5064F30F1ED,Herrera and Sons,Donald Wright,ramosmichelle@garcia.com,432-867-7360,4746 Moore Hill,North Beth,ND,US,08490,COD,40,2.8,True
+SUP-73FCD543AB0,"Edwards, Williams and Woods",Kim Brown,yorkcasey@leonard.biz,793-699-0916,534 Anderson Rue,Stephenland,AL,US,60569,Net 60,30,3.0,True
+SUP-E62A0DD4B90,"Murillo, Ferrell and Jones",Derek Mahoney,suarezmike@kim.com,+1-680-684-1241x182,534 King Vista,North Cynthiaview,AZ,US,00965,Net 90,9,2.3,True
+SUP-5C82DF55CC0,Wise-Walsh,Patrick Arnold,hhoffman@landry.com,+1-605-798-2620,3315 Dickson Summit,East Michelle,AS,US,23707,Net 90,41,2.8,False
+SUP-0E61F335D23,Johnson-Doyle,Timothy Pham,josephcobb@reyes.info,837.754.3303,45868 Crosby Crescent Suite 294,North Candacestad,VA,US,41615,COD,37,2.4,True
+SUP-958D5AAE392,Obrien-Dixon,Kenneth Scott,zsmith@mcdaniel.com,(861)659-5148x465,66299 Sullivan Village,West Justinchester,WY,US,76520,Net 30,38,2.9,True
+SUP-97F61CFA04A,"Pena, Marshall and Ramos",John Santana,donnacampbell@schultz.com,+1-543-832-0037x91769,3201 Robinson Unions Suite 083,South Dennismouth,TN,US,70117,Net 90,39,2.6,True
+SUP-C15DF54A60E,"Larson, Dodson and Vance",Michelle Wagner,vmerritt@cole-walton.com,001-487-434-7143x45581,2316 Rivera Mountain,Brownchester,MS,US,77057,Net 60,21,5.0,True
+SUP-C97316F6A26,"Smith, Gilmore and Johnston",Tommy Evans,acastaneda@adkins.com,234.867.0656x2729,62720 Gray Forest,Murphyfurt,KY,US,99068,Net 30,27,2.8,True
+SUP-7A4AA93387F,King-Miller,Joshua Cooke,jeffrey10@herring.com,+1-323-427-1937x452,90496 David Flat Apt. 931,Melissaville,WY,US,74678,Net 90,13,3.1,True
+SUP-5F54EA51FAA,Reed Group,Andrea Holland,atkinsonlynn@hamilton.info,001-626-728-4987x769,47379 Rogers Park,Hunterborough,MI,US,34363,Net 90,44,2.2,True
+SUP-81D65FC6023,Ramirez-Carlson,Kristi Black,christophercortez@peters-allen.info,+1-777-801-4363x4957,7444 David Fields Suite 182,East Joanna,KY,US,95473,Net 60,13,3.4,True
+SUP-40CC3A7B47B,"Bray, Warren and Campbell",Cory Perez,kevinerickson@hill.net,627-910-9477x7520,67190 Edward Port,Christopherbury,DE,US,73648,Net 60,23,4.5,True
+SUP-527D4D73F2A,Obrien-Gibbs,Joseph Hayes,levans@torres-oliver.org,001-813-934-1232x8120,0344 Jones Fort Suite 936,New Jeffreyberg,PW,US,35317,Net 60,5,4.4,True
+SUP-315D7A0570A,Jones and Sons,Linda Holloway,scott74@powell.info,590-265-9401,027 Moon Falls Suite 717,Rickymouth,TN,US,14211,Net 30,16,4.7,True
+SUP-FFAD2C7FE14,Rivera Ltd,Matthew Morales DDS,gibsonleonard@wilson-barton.net,9879603859,48247 Martinez Roads,Lake Eric,OH,US,02293,Net 90,16,4.0,True
+SUP-60E8D2D02C8,"Russell, Walker and Skinner",Travis Holland,tyronemoran@thornton.info,378.626.3982,8404 Monroe Prairie Suite 278,Reedside,WV,US,71729,COD,12,2.8,True
+SUP-C5922330DA4,Gibson-Morris,Michael Armstrong,melissajenkins@garner-thornton.biz,(227)402-8951x7187,217 Morgan Square Suite 158,Finleyfort,VI,US,71413,Net 90,40,3.3,True
+SUP-FE35EF503CD,Williamson and Sons,Tammie Bright,hamiltoncorey@padilla.com,5058045562,21969 Tyler Prairie,East Steven,KS,US,60737,Net 90,17,5.0,True
+SUP-8CC1F834771,Estrada-Nolan,Dwayne Payne,alexandermichael@evans.info,836-671-3695x9440,097 Parsons Forks,Jefferyborough,RI,US,33351,COD,8,4.3,True
+SUP-332689FE88F,"Campos, Saunders and Becker",Brent Burton,parkerscott@diaz.com,001-662-732-8588x4247,1236 Davis Locks,West Amandamouth,MN,US,88689,Net 60,43,2.5,True
+SUP-3B1211E5552,"Chambers, Richards and Carson",Ashley Hall,harveysherry@herman-walker.com,+1-474-861-2004x7113,8692 Pena Village Suite 964,Lake Mitchellmouth,NV,US,31448,Net 30,27,3.1,True
+SUP-EB5D39C97B4,Garcia-Jennings,Vanessa Howard,hhill@davis-lewis.org,5055329318,2904 Vanessa Plains,Laurenville,TN,US,03880,Net 90,38,4.6,False
+SUP-87B711A11F2,Smith and Sons,Alexis Baker,judyfox@brown.org,278-239-0847,6177 Rachel Islands Apt. 124,Oscarhaven,LA,US,59970,Net 30,37,4.3,True
+SUP-FB20EBEC9CE,"Jacobs, Garcia and Miles",Marilyn Mack,russellbeasley@morgan-chavez.biz,001-815-365-4527x1111,80988 Santiago Loop Suite 604,Michaelshire,NY,US,28385,Net 90,10,2.9,True
+SUP-1F40BD3F22F,Douglas and Sons,Hayley Hawkins,farmeraudrey@bruce-villegas.org,+1-480-494-0244x550,20183 Barnes Junctions Apt. 545,North Ericton,TX,US,11194,Net 30,19,4.9,True
+SUP-BBA152C542E,Ramos-Coleman,Jennifer Lewis,reeddaniel@gregory.com,669.600.3432,07622 Patel Forks Suite 160,Smithland,VI,US,41534,Net 30,43,2.9,True
+SUP-9E85D5B5042,"Patterson, Sullivan and Bowman",Jared Burch,lauriemontgomery@gillespie.com,(596)781-6453x52181,231 Jonathan Extensions Apt. 127,Webstershire,NV,US,89778,Net 60,12,3.1,True
+SUP-81B1C7515D1,"Day, Downs and Morris",Emily Gonzales,tramos@vargas-bell.com,977-200-5411x9986,359 Mason Circle Suite 151,North John,NV,US,58096,Net 30,41,3.0,False
+SUP-AE6A471A57B,"Mills, Moore and Watson",Jason Morgan,mccormickdeborah@rivera.biz,349-625-1925x4629,528 Debbie Manors Suite 054,East Matthew,WI,US,64237,Net 90,22,2.7,True
+SUP-30AFCF024EF,Perez and Sons,Edward French,stanleynancy@anderson.org,(970)565-3794,7359 Murray Haven,Shawchester,GA,US,26675,Net 30,8,4.2,True
+SUP-03ADCD54FB0,"Taylor, Wright and Davidson",Kristen Garcia,mitchellkathryn@cole-palmer.biz,737-550-6068,53051 Moody Dam Apt. 472,Westtown,MH,US,10885,Net 60,11,4.0,True
+SUP-EB5D2A674AD,Scott and Sons,Monica Rose,parsonsjohn@williams.org,811.279.8089x324,96218 Jones Pine Apt. 670,Zavalaview,WA,US,02629,Net 60,19,3.6,True
+SUP-9738521401C,Kramer-Cooper,Lori Ingram,dennis58@li-thompson.info,001-772-621-7043x030,740 Justin Wall Apt. 541,Samuelfurt,WA,US,58138,Net 60,37,4.3,True
+SUP-6AD9C1479AA,Morgan-Lopez,Holly Salinas,laurie61@morrison-short.net,951-215-4479x6275,640 Emily Lodge Suite 820,Port Cathy,WY,US,57933,Net 90,28,5.0,True
+SUP-710C6C03474,Martinez and Sons,Holly Reyes,jacobserika@watson-hines.org,(485)965-4310,144 Lewis Ridge Suite 731,Port Charles,HI,US,94003,COD,36,3.4,True
+SUP-94151BEDFC1,Osborn-Cochran,Victoria Contreras,piercekelly@york-joseph.com,(783)913-2370x589,114 Key Stravenue,Foxchester,GU,US,75854,Net 30,24,2.1,True
+SUP-816E142D7E4,Martinez LLC,Joanna Frazier,david89@saunders.biz,601.582.4225x35841,49818 Brittany Prairie Apt. 299,Meganshire,AZ,US,04219,Net 60,3,2.2,True
+SUP-5EB43F3C4B2,Williams Ltd,Deborah Clark,bmontgomery@small-gardner.com,736.447.1027x6773,556 Kathleen Passage Apt. 537,West Shannonberg,CT,US,07133,Net 60,7,4.7,True
+SUP-FF9492EFD56,Dougherty-Lin,Victor Barrera,sarah53@jimenez.info,247.601.6873x3950,748 Melanie Meadows Apt. 456,Brandonton,OK,US,74139,Net 30,35,2.7,True
+SUP-EA9B50C6582,Cox LLC,Jonathan Duran,marcia99@anderson.biz,(258)452-3986x800,8729 Mark Ridge Suite 269,Brittneyhaven,MP,US,67310,Net 60,37,2.4,True
+SUP-79D398A1D82,"Burns, Hart and Wells",Gary Rodriguez,ysilva@wiggins.com,+1-299-330-9728x9623,75626 Robert Trail,Salaston,VT,US,18599,COD,18,4.4,True
+SUP-2A28BC397DF,"Clark, Nguyen and Bates",Emily Thompson,amy49@lee-wright.net,834-843-7575x8441,40415 Douglas Summit Suite 338,Sarahview,DC,US,14817,Net 60,9,2.3,True
+SUP-98816A529FC,"Yang, Allen and Williams",Courtney Hall,gutierrezjennifer@maldonado.com,+1-226-377-3454,026 Sarah Camp,Frenchburgh,WA,US,38442,COD,29,3.4,True
+SUP-3908ADFC507,Smith PLC,Tanya Rogers,ihays@snyder.info,531-452-7420x549,8516 Jack Dam Suite 530,Patrickmouth,WV,US,35496,Net 30,6,3.2,True
+SUP-26B3A5C2D99,Turner-Sharp,Matthew Schwartz,contrerassteven@sullivan.com,001-714-859-3327x279,339 Alicia Pines Suite 191,Port Amyhaven,ID,US,75566,Net 30,18,2.6,True
+SUP-F917A1B15E2,"Hernandez, Murphy and Meyer",Daniel Aguilar,nolansean@chavez.biz,390.287.4064x039,1801 Johnson Lodge Apt. 265,Westfurt,MS,US,11019,Net 60,30,2.6,True
+SUP-FDF87FA49F0,"Brandt, Baxter and Anderson",Barbara Haney,urice@davenport.com,386.286.3375x243,033 Craig Bypass Suite 903,South Scottside,IL,US,99379,Net 30,31,4.4,True
+SUP-ECE3B2F5198,Taylor LLC,Thomas Johnston,joel28@gutierrez.com,+1-792-868-7056,46287 Melissa Hills Apt. 708,Faulknerside,NC,US,18076,Net 30,6,4.0,True
+SUP-CADD8E95F2C,Sanchez-Harris,Tammy Boone,nicholsmaria@adams.org,+1-501-539-8373x540,739 Randy Garden,Kimberlyfurt,NH,US,70447,Net 30,8,4.8,True
+SUP-854E6DADA98,"Howard, Green and Hunt",Brett Zavala MD,robin55@williams-shields.com,7485996423,378 Scott View Suite 772,Garyside,NM,US,24624,Net 60,29,3.5,True
+SUP-049922408F5,"Mooney, Bernard and Warren",Angela Meyers,duranrobert@hall.net,250.299.7700x886,408 Drake Fall Apt. 182,East Christine,KS,US,46958,COD,6,2.5,False
+SUP-48BEA9808F7,Norton-Miller,Judy Sanchez,kevinclayton@valdez.com,366-968-7002,591 Jerry Ways Suite 401,Rachelshire,TN,US,04813,COD,19,4.8,True
+SUP-54BEB4E1DEA,Mcfarland LLC,Daniel Thomas,thickman@elliott.biz,+1-885-762-1850x16315,477 Michael Lane,Lopezshire,TN,US,50317,Net 90,30,4.1,True
+SUP-A9E8F4728E7,Barton LLC,Michelle Miller,normanbowers@singh.com,310-447-5412,8886 Anthony Knoll Apt. 995,Smithchester,MS,US,11602,COD,12,2.6,True
+SUP-F5550365C51,"Santana, Stein and Spence",Carolyn James,josephadams@brown.com,(647)215-4379x93712,9657 Jordan View Apt. 459,South Leon,MO,US,42331,Net 30,40,4.2,True
+SUP-44E855D1237,Navarro-Chen,Rachael Nguyen,lisa65@frederick.org,+1-828-907-3741,434 Jennifer Turnpike,Jonesfort,OR,US,53035,Net 90,6,2.2,True
+SUP-A58BB3FCED3,"Hunter, Knapp and Holt",Rachel Ward,rodriguezjohn@kelly.biz,001-956-710-1438x88993,9825 Timothy Hill Suite 112,Larrymouth,WY,US,27615,Net 60,6,4.9,True
+SUP-EB1AD04CCBD,"Webb, Alvarez and Kim",Emma Evans,johnsonmatthew@byrd.com,228.525.8673x62266,660 Jamie Terrace Apt. 918,West Mark,NH,US,15437,Net 60,7,3.8,True
+SUP-9F7263ADAB4,Lambert-Burns,Emily Price,wmatthews@bruce-williamson.com,+1-891-825-1341x252,662 Reid Square,New Garrett,LA,US,18889,Net 60,28,2.4,True
+SUP-BC1A55BB0F4,Edwards Group,Sharon Crane,ytaylor@wagner.biz,001-677-421-9034x043,788 Ashley Grove Suite 807,South Curtis,MP,US,86179,Net 60,40,3.8,True
+SUP-3D203565FF1,Evans Inc,Gregory Montoya,hgrimes@clark.org,001-659-462-9233x095,449 Farley Passage Apt. 260,Michelleberg,UT,US,17893,COD,45,3.8,True
+SUP-840C033389A,Thomas LLC,Pam Lowe,othomas@burton-brooks.com,+1-716-384-5775x9017,63745 Morgan Ports Apt. 975,North Corymouth,AK,US,16785,Net 90,16,4.0,True
+SUP-D6D36B5599A,Alexander Inc,Jessica Forbes DVM,erik41@ward.com,9643361103,387 Alan Junctions,Port Robertberg,NJ,US,09784,Net 90,28,2.4,True
+SUP-E6C22152800,Reyes Ltd,Ashley Richardson,derrick22@moreno.org,+1-327-853-2697x3112,5234 John Rapid Suite 043,Lake Peter,SD,US,07653,COD,23,4.8,True
+SUP-EE055397C6D,Simpson Inc,Mark Jones,hatfieldsarah@hughes.biz,(282)871-0910x430,866 Miller Plain Apt. 414,New Samanthaberg,ND,US,43328,Net 30,32,3.9,True
+SUP-F4E1BF1C5A1,Willis-Hines,Maria Collins,pblair@sanchez.com,799.604.2102x027,2410 Roman Groves,West Jennifershire,SC,US,10602,Net 30,7,3.6,True
+SUP-572CE8A4942,Gibson-Ward,Mr. Jacob Scott Jr.,perezwilliam@trevino.com,5757622086,5419 Wilson Spring,East Jeffreyhaven,AZ,US,53051,Net 60,25,4.6,True
+SUP-E33589322D9,Wiley LLC,Emily Miller,msmith@elliott-torres.org,275.897.3832,85050 Sweeney Stream,Daltonhaven,IA,US,55527,Net 90,21,2.5,True
+SUP-EA12CCEA8C2,Woodward-Kaufman,Douglas Williams,phyllismeyer@huang.org,482-561-9906,5655 Nelson Club Apt. 291,North Frank,NH,US,41661,Net 90,42,5.0,True
+SUP-4D26F13A1EB,Martinez-Howard,Jodi Ford,davislindsey@mckenzie-terry.com,652.613.5680,67883 Steven Unions,North Alexander,MP,US,29636,Net 30,45,4.5,True
+SUP-EE3741DD794,Gonzalez Group,Mark Newman,samantha10@gonzalez.info,(815)810-7029,66253 Joshua Mission Apt. 099,Lake Kenneth,MT,US,72680,Net 30,11,2.8,True
+SUP-F988088B948,Brown-Ramirez,Curtis Wilkerson,crystalpham@mayo.com,587.259.8564x2059,78593 Craig Shoals Apt. 480,New Meghan,AS,US,51412,Net 60,20,2.8,True
+SUP-967C73FF3E4,Mcconnell-Frey,David Stewart,robin05@elliott.info,+1-542-270-1039,59325 Samantha Vista Suite 002,Port Daniel,NC,US,48327,Net 90,16,4.1,True
+SUP-59B14753160,Brooks Ltd,Brian Turner,theresaoconnor@conner-yu.com,(689)453-9264,096 Ian Island,Lake Ariana,NM,US,18935,COD,19,4.7,True
+SUP-AB556BFA48E,Mcgee-Young,Mrs. Stacey Davis,sean43@steele.com,800-767-6267,79327 Lauren Bypass Suite 054,North Matthewfurt,GA,US,96443,Net 30,43,3.3,True
+SUP-55714A4DB43,Payne Inc,William Barry,reynoldsdesiree@preston.com,268.884.4431,05061 Colon Road Suite 310,East Danielle,CO,US,62572,Net 30,24,4.3,True
+SUP-487421E8BDE,Parker Group,Steven Baker,ylopez@lopez-williams.info,543.249.0211x586,687 Thomas Common Suite 089,North Stacy,NV,US,23160,Net 90,13,4.2,True
+SUP-318DD7CACE2,Stanton and Sons,Jay Mcneil,oharris@flowers.com,001-811-368-6854x8709,29991 Anna Courts Suite 856,Patrickfort,OK,US,80318,COD,38,2.0,True
+SUP-A849E8BF8F3,Johnson-Hill,Lee Steele,fosternatasha@young.com,6549447132,6913 Lewis View Suite 785,New Laceyland,ME,US,93505,Net 60,37,2.1,True
+SUP-7760DA36443,"Powell, Deleon and Warren",Carrie Golden,marywright@williams-ward.com,457-986-1035x797,2414 Paul Estates Apt. 333,Denisehaven,AK,US,89918,Net 60,30,2.4,True
+SUP-8562EFC0B2F,Wells and Sons,Lindsay Smith,charlene44@woodard-york.info,637-648-9691x085,1545 Green Station,Jacobhaven,WV,US,31997,Net 30,25,2.6,True
+SUP-DBDEA20915B,Trujillo PLC,Francisco Taylor,rioswhitney@meadows-sullivan.com,001-693-453-8758,1724 Stacey Isle,East Michaelport,MT,US,43927,Net 30,25,4.3,True
+SUP-91C3E48834B,Green-Carter,Julie Delacruz,kennedyjames@dillon.net,360-922-3569x7252,250 Shannon Fords Apt. 927,East Christinachester,MO,US,56734,COD,42,4.2,True
+SUP-686310CF26D,Reyes-Johnson,Jake Smith,katherine83@rhodes.com,454.321.6894,4789 Hamilton Spur,West Wendy,NM,US,47588,Net 60,13,4.9,True
+SUP-05CA9305BFE,Martin Group,Danny Mercer,jessicalawrence@martinez.com,(848)390-9010x0167,2304 Stanley Shore Suite 992,Rivasville,NY,US,94711,COD,4,2.5,True
+SUP-F06DD0E7A9B,"Wilson, Wilson and Rodriguez",Curtis Baker,michaelortiz@williams.com,001-375-330-0119x721,374 Marshall Courts Apt. 045,Ronaldville,CT,US,99880,COD,45,4.6,True
+SUP-DF351C3CCD4,Smith and Sons,Carolyn Howard,rfriedman@davis.biz,(974)967-6212x0216,659 Michelle Villages,South Samantha,DE,US,54408,Net 90,13,4.4,True
+SUP-EBACDB7E54B,Williams-Green,Michael Gregory,tiffanysantiago@stone-watts.org,263-275-6289,772 Karen Islands,West Tara,AR,US,66945,Net 30,33,2.7,True
+SUP-C5784F772CF,Pierce Group,David Stevens,fmiller@stewart-hooper.com,666-508-8019,5037 Castro River Suite 571,Port Donnatown,MA,US,47049,COD,25,2.9,True
+SUP-2A3A6928661,"Brandt, Carter and Boyd",Amber Martin,lydianewton@rodriguez-carr.com,363-973-5160,982 Smith Street Apt. 869,Glassburgh,UT,US,76333,Net 60,17,2.1,True
+SUP-FF6C3B1149A,Cross and Sons,Matthew Obrien,william66@moon.com,572-626-9848x5833,228 Page Trace Suite 879,Craigside,LA,US,55864,Net 90,20,4.6,True
+SUP-96F4B7D2418,Mills Inc,Anthony Brown,karen24@king.com,880.557.1983,066 Frye Spur Suite 800,Jamesmouth,MP,US,30064,Net 90,25,3.9,True
+SUP-AA8E0EDAE54,"Bush, Holland and Fischer",Lindsey Parsons,kellythompson@jones.com,(406)248-4229x4057,9094 Tyler Plaza,Charlesmouth,NC,US,29331,Net 90,4,2.3,True
+SUP-4DAB28C9C9A,Meyer PLC,Joshua Powell,jeffrey35@ward-robinson.org,378.801.5739x93056,408 Robertson Pass Suite 704,West Willie,CT,US,22441,Net 60,40,4.9,True
+SUP-FD9D5ABF67E,"Ferguson, Sims and Clark",Christy Jennings,harrismaria@rowe.com,3755011024,6766 Smith Spring Apt. 809,Port Julieton,UT,US,10015,Net 30,41,3.3,True
+SUP-1219E469671,Reilly-Rodriguez,Elizabeth Miller,qjames@wells.com,(468)342-4508,99688 Kevin Summit,Jasonhaven,FL,US,21597,Net 90,30,3.8,True
+SUP-F200D5FACB9,Walker LLC,Christopher Marsh,yorksarah@murray.com,313-597-5523x149,7594 Ariana Lakes Suite 620,Johnbury,VT,US,97470,COD,39,2.6,False
+SUP-58B6F39452A,"Graham, Larsen and Taylor",Sherry Ford,kim78@thompson.com,828-534-1108x099,488 Valdez Drive,Philipshire,VA,US,38642,COD,3,3.6,True
+SUP-F86F0A9088F,Marshall PLC,Jack Smith,melaniedrake@sutton.com,(599)327-5037,3038 Hughes Motorway Apt. 051,Maryview,OR,US,71850,Net 60,26,3.3,True
+SUP-CFAF083F7BA,"Thompson, Valdez and Diaz",Sara Black,okaufman@sullivan.info,+1-408-427-2318x432,136 Cortez Orchard Suite 739,Lake Martha,AK,US,32439,Net 90,42,2.9,True
+SUP-BC7E1D9889C,Anderson PLC,Mark Williams,brianscott@black.org,001-404-513-7977,292 Jackson Spur Suite 799,East Nicholasberg,CT,US,02671,Net 90,35,2.9,True
+SUP-10E37BE2016,Mills PLC,Samantha Jacobs,thomasmendez@rich.net,001-811-572-9806x86508,5991 Anderson Neck Apt. 149,Scotttown,VT,US,97972,COD,21,3.7,True
+SUP-957082F21D6,Lane Inc,Jaime Harris,robert12@pearson-king.net,(995)694-6368x87258,562 Julie Mission Apt. 138,Hartmanside,RI,US,91865,COD,14,3.8,True
+SUP-D82E6D26EDF,"Mann, Martin and Oconnell",Brandon Thomas,qdavis@wood.com,001-666-598-4902x7703,883 Emily Lake,Lake Aaron,GA,US,11883,Net 30,22,2.9,True
+SUP-5B84F57FAA5,Chan-Gomez,Kevin Holmes,calhounandrea@gallegos.com,893.376.9042,451 Walter Via,Heatherfurt,OK,US,63891,Net 90,32,3.3,True
+SUP-5FDD8AC74FE,Todd Group,Stephanie Atkins,ewilson@schultz-gamble.com,465-988-0434x16518,3942 Victor Flats Apt. 343,East Mary,MP,US,81581,COD,13,4.0,True
+SUP-C350D12110D,Moore-Rodriguez,Megan Alvarado,duranamber@charles.org,879-947-2846x39208,562 Bray Square,Stewarttown,AL,US,88857,Net 90,8,4.5,True
+SUP-DBE38ABF1D3,Gray Inc,Louis Green,joel79@diaz-jimenez.com,(855)864-7292x93143,27026 Taylor Vista,Kristenport,KS,US,74181,Net 90,17,4.4,True
+SUP-769EF202E8E,"Williams, Garcia and Martin",David Combs,colematthew@ward-grant.com,(706)715-9399x824,716 Ford Drive Apt. 569,Sweeneyland,CO,US,21734,Net 30,18,5.0,True
+SUP-713BFCACB32,Perez-Stewart,Derek Newman,pam59@sheppard.com,(334)913-2611,68114 Christopher Loaf,Jeromeport,NV,US,82615,Net 30,32,3.2,True
+SUP-3B9176F532D,Anderson and Sons,Matthew Dalton,michelle78@dunn-taylor.net,(799)979-6884,74564 Kevin Alley,West Justin,ND,US,01591,Net 60,27,3.5,True
+SUP-3C46B338EE5,"Weeks, Arroyo and Woods",Jeffrey Carter,laurakelley@jenkins.biz,(632)666-3416x3894,12241 Williamson Groves Suite 350,North Tara,AK,US,24872,Net 30,9,4.3,True
+SUP-D7AB0FBA4B7,Campbell and Sons,Monica Hall,alexisrobinson@collins-lloyd.com,505.612.0461x872,13673 James Street Apt. 837,Maldonadoport,MD,US,21290,COD,6,3.7,True
+SUP-E0EC49350F6,"Chandler, Garner and Dunn",John Evans,paige31@chen.com,(949)416-3009,32719 Galvan Trace Apt. 052,East Tonymouth,OH,US,84996,Net 30,32,2.4,True
+SUP-0FBC16F09CD,Trujillo-Gonzales,Michael Howard,johnwilliams@kim.com,001-428-355-7498,4485 Smith Route,Grosstown,RI,US,48221,Net 90,31,3.8,True
+SUP-5A6C9C9C1D9,"Allen, Le and Barrett",Jasmine Warren,jcannon@campbell.com,910.622.0317x31096,3910 Diana Village,South Laurieton,MN,US,73641,COD,38,3.3,True
+SUP-4B218BE29EF,"Hurley, Perry and Wood",Samantha Baker,navarromary@blackburn.com,438-863-3839,957 Andrade Expressway,New Richard,MA,US,86685,COD,31,2.8,True
+SUP-0051DAA7B99,Ferguson PLC,Harold Edwards,megan66@morris.biz,001-684-257-7600x49082,35048 Clinton Mount Suite 224,Pamelabury,IN,US,34087,Net 90,36,3.5,True
+SUP-AEAD79085A8,Davis-Ross,Morgan Cummings,sthompson@johnston.com,3965105566,604 Luis Port,West Wayne,IN,US,20580,COD,7,4.1,True
+SUP-3914B10A77C,Nunez Group,Nicole Johnston,walkerkeith@hernandez-rogers.info,001-408-464-1686,376 Ann Street Apt. 314,Morrisshire,CO,US,15250,Net 90,23,4.7,True
+SUP-AB189ADA1EC,"Gutierrez, Diaz and Lee",Matthew Carrillo,vanessajensen@hanson-alexander.com,652.211.0392,147 Johnson Fords Apt. 388,Anaberg,UT,US,92088,Net 60,17,3.1,True
+SUP-6BCE89892BD,"Smith, Aguilar and Alvarado",Christopher Campbell,brian01@guerrero-alvarado.com,904-363-6815,87800 Sandra Inlet,Tracyburgh,AK,US,45954,Net 60,7,3.2,True
+SUP-19F4E91F2E3,"Bell, Garrett and Young",Kathryn Cain,natasha08@perez-peterson.biz,+1-721-968-9363x92649,29832 Barker Pine,South Wendy,WI,US,19526,COD,29,2.2,True
+SUP-11B831089BB,"Fitzpatrick, Stark and Stewart",Tiffany Wilson,mary20@beard-gutierrez.biz,574-523-1220x9949,051 Anderson Vista,Josephstad,HI,US,51286,COD,40,4.8,False
+SUP-E72AF67AA51,Wells-Martin,Jason Novak,stephanie33@jones.org,257.336.6096x5699,0388 Terrell Canyon Suite 803,Scottport,WI,US,37976,COD,33,2.0,True
+SUP-F280D9BC138,Jackson-Phillips,Melissa Mckee,cgallegos@sharp.com,001-398-626-6570x27937,211 Jasmin Roads Suite 186,South Andrea,AZ,US,22899,COD,29,3.6,True
+SUP-92EF2BF29EB,Cunningham-Keller,Sean White,barneskyle@roberts-white.com,209.940.7778,97767 Carolyn Avenue,New Joshua,SC,US,73580,Net 60,34,2.7,True
+SUP-06191A1B05A,Williams and Sons,Gregory Thomas,estradamary@rivera-miller.com,(622)749-9982x79501,1681 Ruiz Crossing Suite 586,Lake Jason,AR,US,14827,Net 30,27,3.0,True
+SUP-B7CD518070E,"Blair, Fuller and Benitez",Mr. Timothy Andersen,ronald54@andrews.org,001-578-277-2934,71396 Williams Keys,North Danielle,UT,US,37414,COD,13,4.5,True
+SUP-3D52F454753,Tyler-Parker,Erica Smith,matthew99@collier.com,677-702-7278x57608,95512 Pittman Junction,Simsburgh,OK,US,79889,Net 30,28,3.8,True
+SUP-6F3633B308E,Lopez-Wilson,Elizabeth Hodge,nelsonchristopher@watson.com,542.715.0317x80782,845 Kayla Courts Apt. 307,Reeveshaven,DE,US,01039,Net 30,44,3.3,True
+SUP-4FBAC18B408,Randolph-Mcdaniel,Anita Owens,garciakatie@edwards.com,233-344-8571x42241,585 Thomas Squares,Audreyburgh,CA,US,41313,Net 60,6,2.8,True
+SUP-F242F966961,"Mcclain, Fernandez and Williams",Steven Williams,bbrown@white-carlson.org,+1-979-354-5381x7921,7733 Michelle Ridges Suite 562,Kristinamouth,NH,US,64399,COD,23,3.0,True
+SUP-D8FF575902A,Jones Inc,Joel Jackson,cassandra28@sullivan.com,981-848-7696x39382,3966 Stephens Freeway,Lake Elizabeth,WA,US,93812,Net 90,29,2.8,True
+SUP-7B454167728,"Copeland, Wilson and Carlson",Brent Wallace,stephanie19@jennings.biz,970-513-2902x27846,549 Sellers Mews,Veronicashire,AL,US,80650,Net 30,37,2.2,True
+SUP-8140077879F,"Powell, Anderson and Phillips",Joshua Brown,daniel40@reynolds.biz,+1-856-766-6832x7238,42201 Douglas Oval Suite 212,Daltonchester,RI,US,24067,Net 60,44,2.2,True
+SUP-3C49978EE67,Hicks-Arnold,Henry Lopez,lanemelanie@joseph.biz,+1-995-300-9751,847 Alexandra Ridge,East Thomasland,TX,US,83559,Net 30,4,4.8,True
+SUP-84F041AA2C7,"Yates, Edwards and Brown",Richard Harrison,vberry@gomez-levine.com,620-294-9407x9290,1281 King Ridges Suite 440,New Gregshire,WA,US,20310,Net 30,42,2.5,True
+SUP-36FBF8BA494,"Griffin, Morton and Green",Kari Lloyd,cooperchristopher@larson.info,001-966-837-2395x04102,7836 Wells Drive Suite 047,Gregoryhaven,TX,US,05877,Net 30,39,4.8,True
+SUP-F6CE1736067,Hardin Ltd,Ryan Bishop,matthew41@pena-myers.com,001-393-385-2580x0106,3443 Andrew Course Apt. 939,Lake Susanland,PR,US,79758,Net 90,26,2.5,True
+SUP-855E8D35E44,Bennett Ltd,Tracy Kemp,jonowens@fowler.biz,001-654-421-4066x504,73962 Rodriguez Plains Suite 391,Baldwinville,AZ,US,10058,Net 30,13,4.9,True
+SUP-4A6D7740A1F,Duncan LLC,Alicia Jimenez,fitzpatrickelizabeth@hernandez-rivera.biz,001-508-277-6618,719 Cook Hollow Suite 015,Christophermouth,WV,US,38506,Net 30,22,3.7,True
+SUP-C46E222E721,"Harris, Spencer and Ponce",Elizabeth Price,mccoymichael@mcclure.com,(603)909-3761,05050 Wilson Valley Suite 829,North Benjamin,FL,US,64581,COD,28,4.8,True
+SUP-3BD36A168F4,"Smith, Meadows and Montgomery",Matthew Smith,conwaylori@bryant.org,811-779-9313,1982 Copeland Underpass Apt. 092,Bryanview,FL,US,99794,Net 60,9,4.1,True
+SUP-09E0A497813,Jackson-Wood,David Perkins,craigboone@bennett.com,5024194672,763 Cheryl Camp Apt. 791,Michaeltown,OH,US,31386,Net 30,39,4.3,True
+SUP-2FD8B370625,Wilson PLC,Lisa Huffman,stevensims@hill.com,(577)822-0054,9701 Sara Fall Apt. 078,North Pattymouth,OR,US,76491,COD,45,3.1,True
+SUP-D37D83148E5,Barnes-Burgess,Crystal Rodriguez,coreyrojas@bennett.com,997.506.2397x2652,3520 Juan Creek Suite 762,Jeffreyport,PA,US,21051,Net 90,3,4.5,True
+SUP-CE955921D2A,"Cisneros, Whitehead and Lane",Crystal Jenkins,natkins@wells.biz,001-233-956-9392x9060,8671 Simpson Corner,Lake Jessicaborough,DC,US,47477,Net 30,30,4.9,True
+SUP-4017F378086,Allen-Duarte,Michael Martin,vhodge@johnson.biz,(657)801-6580,989 Kristin Common Suite 085,North Patrickmouth,RI,US,05858,COD,12,3.3,True
+SUP-2BA40E5324D,Richardson-Wong,Kristina Ayala,tinaallen@banks.org,001-733-955-4864x015,817 Hayes Land Apt. 371,South Rachaelport,CA,US,14835,Net 90,42,4.4,True
+SUP-988A82D2380,Hill Ltd,Chris Harris,cartertara@huynh.com,931-903-8569x5579,242 Perez Landing Suite 025,Stephenburgh,RI,US,21576,COD,32,3.3,True
+SUP-A80B2268A5A,"Nichols, White and Thompson",Summer Bauer,johnwilliams@andrews-alexander.com,(438)605-5257,67275 Adam Streets,Deborahport,NJ,US,38489,Net 90,23,4.6,True
+SUP-BCD89D52189,"Estrada, Marsh and Chandler",Gina Rodriguez,imccullough@pierce.com,251.350.9398x343,186 Tracy Rapids Apt. 562,Woodstad,AL,US,37810,Net 30,20,4.6,True
+SUP-322482F9BA2,Bell-Madden,Anita Luna,afigueroa@roberts-shaffer.biz,001-862-399-1234x7851,4628 Page Throughway,East Jacob,MS,US,38441,COD,39,3.8,True
+SUP-95BCFC8C747,"Henry, Carson and Turner",Kathleen Singh,anthonysmith@evans-davidson.info,946-327-3014,796 Burton Mountains Apt. 589,Port Jordanshire,AR,US,19655,Net 30,34,4.6,True
+SUP-58EE1E07127,Murray-Steele,Anthony Ward,brandon48@mayer.com,001-419-228-5544x51895,457 Peterson Estates,East Ericbury,MP,US,25197,Net 60,25,4.4,True
+SUP-4D6AB951BF4,"Austin, Guerra and Fox",Kristen Avila,butlersabrina@fuentes.info,(545)427-9852x401,342 David Common,Vazquezville,CA,US,02965,Net 90,38,2.0,True
+SUP-0A7C3BD33C7,Todd-Williams,Ricky Palmer,harrisonrebekah@jones.com,001-711-793-9325x01249,938 Cory Prairie,New Jayborough,LA,US,23015,Net 30,18,4.2,True
+SUP-B443FA83AFC,"Smith, Swanson and Glass",Sarah Wells,scottrosario@davenport.biz,483.961.5171,480 Mark Crescent Suite 479,Gloriamouth,IN,US,73103,Net 60,33,3.9,True
+SUP-D410FCFC211,Roberts-Wyatt,Benjamin Randall,xcrosby@smith.info,+1-716-578-1126x69121,96136 Ramirez Station Suite 657,Archerhaven,KY,US,19817,Net 30,8,2.9,True
+SUP-FD26CBCC4F2,Rodriguez-King,Mark Taylor Jr.,greertyrone@stanton.org,+1-952-649-9118x77347,800 Beard Crest Suite 756,Stevenston,HI,US,73464,Net 60,22,4.0,True
+SUP-29A853646D1,"Dalton, Turner and Mccarthy",Chad Baldwin MD,carrolltracy@jennings.com,206.447.9695x45009,9056 Ronnie Knolls Suite 503,East Deborah,OR,US,11634,Net 90,30,5.0,True
+SUP-8FEB009A2AD,"Jones, Torres and Morgan",Gabriel Murray,abradley@smith-harrison.com,469-665-9171x35785,3718 Karl Causeway Suite 963,Lake Meganville,OR,US,44651,Net 90,32,2.8,True
+SUP-996D2D71228,Jones-Solis,Daniel Flynn,william46@fernandez.org,878.220.8297x37489,7232 Richard Loop,Michelleland,SC,US,27181,Net 30,15,2.9,True
+SUP-C289164615F,Adams-Mitchell,Michael Young,daniellee@robles.info,486.260.3242x0448,01594 Rachel Lodge Suite 162,North Ashley,NY,US,16313,Net 60,15,2.6,True
+SUP-C6722249640,"Beck, Carpenter and Hampton",Kathleen Davis,mejialawrence@mclaughlin.biz,221.923.4764,158 Wells Gateway Suite 257,Loritown,SD,US,79906,Net 90,9,4.5,True
+SUP-5D80DD8E3DB,Skinner Ltd,Amy Lowery,johnnycruz@mullen.com,+1-537-660-6441,75604 Madeline Overpass,Mclaughlinmouth,VT,US,55861,Net 90,14,2.9,True
+SUP-C1A32419C49,Holloway Ltd,Austin Fisher,shawn00@may.com,5634459112,7724 Grace Views Suite 431,Richardsonfurt,FM,US,49957,Net 60,20,2.1,True
+SUP-94CC2BE3AD2,"Walker, Vaughan and Leblanc",Lori Meadows,sgonzalez@williams.biz,+1-942-315-2910x867,334 Francis Light,South Melissa,PA,US,28755,Net 90,11,3.9,True
+SUP-A0B677C1D9A,Acosta-Lopez,Ricky Johnson,joe73@aguilar-holland.com,6723563669,005 Thomas Knoll,North Jonfurt,ME,US,52234,Net 30,3,3.7,True
+SUP-E13A62EDE14,"Wood, Donaldson and Hansen",Debbie Gordon,natalie21@page-hamilton.com,650-627-4564,2572 Brown Drive Apt. 320,Greenmouth,NE,US,15708,COD,24,2.6,True
+SUP-3C9A3785C25,Williams-Kelly,Karina Vasquez,daviddavis@white-jackson.net,999-339-0892x613,41659 Mary Drives Apt. 177,Fullerview,PA,US,86747,COD,10,4.5,True
+SUP-E49D2F75F44,Rivera Inc,Tiffany Nguyen,jasonwilliams@campbell.net,+1-861-864-2361x032,214 Owen Street Suite 925,Port Michaelborough,NM,US,58886,Net 30,39,3.9,True
+SUP-371E01CD40B,Alvarez-Hart,Peter Shepherd,ryansimmons@palmer.com,+1-427-688-1476x1742,649 Andrea Cape,New Rogerville,NH,US,87120,Net 60,39,4.8,True
+SUP-66DAE64C68F,"Carroll, King and Scott",Jonathan Wilson,lwhite@williams-butler.com,897-279-4523x21941,1027 Holt Ways,Turnerstad,UT,US,88817,Net 60,10,3.7,True
+SUP-E6661451775,"Leonard, Ballard and Miller",Connor Cabrera,micheleclark@thomas.net,414.472.7601,7079 James Port Suite 050,Lake Melaniechester,MT,US,65473,Net 60,36,3.1,True
+SUP-C268C3B570A,"Lane, Simon and Duarte",James Palmer,dhall@smith.com,+1-967-717-9576x0243,83959 Anderson Hill Suite 657,New Jared,UT,US,98707,Net 90,40,5.0,True
+SUP-B534098C432,Estrada and Sons,Christopher Vasquez,fhahn@young-hawkins.com,(545)322-8015x619,4550 Kemp Walk,Lake Brentmouth,AS,US,60418,Net 30,42,4.9,True
+SUP-7E5E956E2B3,Villegas PLC,Shannon Garcia,romerogary@pitts.com,001-847-287-1255x2137,5482 Joseph Stravenue,Wardbury,FL,US,99225,Net 60,43,2.6,True
+SUP-A7A31DEFA51,"Fisher, Perez and Pham",Jason Ellis,sherry72@robbins.com,455-262-6060,6845 Smith Harbors Apt. 673,Terryfurt,WI,US,26360,Net 60,18,2.5,True
+SUP-49910D6AB48,Miller-Medina,Nathan Hobbs,jason88@boyd-sherman.com,3082943468,8510 Shane Ports Apt. 753,West Kevin,TN,US,94198,Net 30,29,3.4,True
+SUP-7F0056F2E1E,"Chambers, Klein and Stone",Garrett Aguilar,shawn26@miller-brown.com,937.815.8698x8649,762 William Oval Suite 288,Lake Jasonfort,AZ,US,98345,Net 90,5,2.7,True
+SUP-8F034B87DDC,Raymond LLC,Barbara Phelps,martinezashley@mills.com,554-447-0229x6044,18510 Olson Inlet Suite 567,Port Dillon,SC,US,60916,COD,7,4.1,True
+SUP-16C6552F9F1,Contreras-Hernandez,Ann Weber,zhughes@weaver-rubio.info,001-241-520-9481x8139,018 Suzanne Harbor Apt. 397,Port Amandamouth,MO,US,77688,Net 60,30,2.3,True
+SUP-C3BE301917E,Henry Inc,Christopher Johnson,patrick11@weaver.com,(741)424-6209,046 Luke Loop,Jonathanville,AR,US,27050,Net 60,20,4.5,True
+SUP-F9C75856D9B,Goodwin PLC,Jordan Gordon,adamslucas@russell.com,8489913824,832 Fernandez Extension,New Stephanie,PW,US,73265,Net 60,22,3.8,True
+SUP-5766D441B92,Williams-Hess,Lisa Delgado,aaronmahoney@nelson-king.biz,(839)384-0289x141,846 Cheryl Unions,Nicolemouth,SC,US,34758,Net 90,31,2.4,True
+SUP-C82E262A39C,"Chavez, Sanchez and Bird",Joe Greene,sloandennis@lynch.com,+1-826-787-6811x80715,01753 Smith Summit Apt. 453,Port Christinaport,AS,US,94585,COD,20,3.5,True
+SUP-ACB2C1E8DD3,Young Group,Amanda Vasquez,adrianjoyce@foster.info,(483)399-9219,9384 Melanie Brooks,Erinmouth,AL,US,56483,Net 30,41,2.1,True
+SUP-67A5891A1C0,"Nunez, Santos and Nash",Ryan Russell,fraziersteven@holmes-williams.com,7463875063,361 James Isle,Bryanville,AK,US,63411,Net 90,41,2.8,True
+SUP-AA8998FA713,Morton-Watkins,Felicia Wright,wellssusan@underwood.com,299-271-7911,1207 Kevin Road Suite 110,West Melissafurt,CT,US,81412,Net 30,20,3.7,True
+SUP-6144293394B,Hall-Greene,Alexandra Reyes,nhobbs@morgan.com,485.693.1109x193,7972 Devin Cape Apt. 249,Palmerstad,ME,US,77003,Net 60,33,3.6,True
+SUP-68FE7A5B22B,"Rowe, Hernandez and Parker",Jacob Smith,brianhunter@trevino.com,+1-631-853-7795x9959,17073 Danielle Square Apt. 793,South Jessica,GU,US,43953,Net 90,14,5.0,True
+SUP-7A7F084B66A,"Bennett, Ross and Mckenzie",Adam Howard,thomasscott@willis.com,534.423.4258,24102 Pena Creek,Sharonport,NH,US,31977,COD,8,3.4,True
