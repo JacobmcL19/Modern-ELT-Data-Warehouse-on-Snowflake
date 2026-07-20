@@ -490,15 +490,6 @@ streamlit run streamlit/app.py
 
 ---
 
-# 💼 Resume Highlights
-
-* Designed and implemented a production-style ELT data warehouse using Snowflake, Python, dbt, and Streamlit.
-* Built automated incremental pipelines using Snowflake Streams, Tasks, and Snowpipe.
-* Developed a Kimball Star Schema supporting executive reporting across multiple business domains.
-* Implemented automated data quality monitoring and pipeline observability.
-* Created an interactive analytics application for business users using Streamlit and Plotly.
-
----
 
 # 📄 License
 
